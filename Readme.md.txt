@@ -1,0 +1,1 @@
+Using Image sharpening, Contrasting, Kmeans pixel wise clustering and glare removal b means of masking to make clear readable images. Then reading the texts on the images using pytesseract package and capturing various data using string manipulation techniques.
